@@ -1,2 +1,2 @@
-# xLiquid
-Repository for xLiquid blockchain payments based projects
+# Quantum Bank
+Repository for Quantum Bank blockchain payments based projects
